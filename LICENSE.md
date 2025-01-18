@@ -18,7 +18,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 You must explicitly credit the original repository:
 ```
-https://github.com/[YOUR-REPO]/memory-matrix
+https://github.com/MaZyAkAkUn/memory-matrix
 ```
 
 ## Full License Text:
